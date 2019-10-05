@@ -1,2 +1,2 @@
 # IA
-Este repositorio tiene programas de Aprendizaje Maquina
+Este repositorio contiene material para la materia de Inteliencia Artificial.
